@@ -1,0 +1,10 @@
+@layer base {
+  html,
+  body {
+    @apply font-open-sans h-full;
+  }
+
+  #__next {
+    @apply h-full;
+  }
+}
